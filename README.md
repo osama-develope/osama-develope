@@ -70,6 +70,7 @@ I offer various digital services such as:
 ---
 
  📬 للتواصل | Contact Me
+ <!-- refresh -->
 
 - 📧 Email: `alhaddiosama3@gmail.com`  
 - 💬 Telegram: [@osa_7a](https://t.me/osa_7a)  
